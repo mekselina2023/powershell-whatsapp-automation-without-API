@@ -32,3 +32,13 @@ This project automates employee communication through WhatsApp Web without requi
 - Excel
 - WhatsApp Web
 - File System Automation
+
+
+## Keywords
+
+- PowerShell WhatsApp Automation
+- WhatsApp Automation Without API
+- PowerShell Excel Automation
+- WhatsApp Web Automation
+- Employee Notification System
+- Document Distribution Automation
